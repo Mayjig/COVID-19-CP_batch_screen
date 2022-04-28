@@ -10,7 +10,7 @@ assay7 Spike-ACE2_protein-protein_interaction_AlphaLISA
 assay8 Spike-ACE2_protein-protein_interaction_TruHit_Counterscreen
 assay9 TMPRSS2_enzymatic_activity
 
-##Workflow
+## Workflow
 1. Install Anaconda and python3 for your operating system.
 2. For python program, install scikit-learn with version higher than 0.24
 3. git clone this repo
@@ -19,5 +19,5 @@ assay9 TMPRSS2_enzymatic_activity
 6. Run python file "prediction.py"
 7. The prediction results are saved in "classification_results.csv" file.
 
-##Citation
+## Citation
 Please cite: Beihong Ji, Yuhui Wu, Elena N Thomas, Jocelyn N Edwards, Xibing He, Junmei Wang. Development of Machine Learning Models to Predict A Chemical’s Anti-SARS-CoV-2 Activities.
